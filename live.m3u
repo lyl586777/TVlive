@@ -5,7 +5,7 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON3.png" group-title="🤠梁雨轩直播",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 tvg-id="1" tvg-name="2026-07-10" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="🤠梁雨轩直播",2026-07-10
+#EXTINF:-1 tvg-id="1" tvg-name="2026-07-11" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="🤠梁雨轩直播",2026-07-11
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="🇨🇳央视",CCTV1
 http://111.56.90.54/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls$梁雨轩•IPV4『线路1』
@@ -644,9 +644,11 @@ http://hmfs.f3322.net:3388/hls/24/index.m3u8$梁雨轩•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
 http://183.11.239.36:808/hls/114/index.m3u8$梁雨轩•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://migu.188766.xyz/?migutoken=cbe570465ec55cbb262d0c95a56737c1&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路20』
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=c625da0e6a6bd98402fdbf67cdfa9d51&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260710225219&Channel_ID=0116_2600034600-99000-201600010001287&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=115.227.52.148&SecurityKey=20260710225219&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5d4ef7faf39ef8f80be1df41663d0214&sv=10004&ct=android$梁雨轩•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-http://iptv.huuc.edu.cn/hls/dfhd.m3u8$梁雨轩•IPV4『线路21』
+https://migu.188766.xyz/?migutoken=cbe570465ec55cbb262d0c95a56737c1&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路21』
+#EXTINF:-1 tvg-id="22" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8$梁雨轩•IPV4『线路22』
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
 http://115.171.216.84:4000/rtp/225.1.8.21:8002$梁雨轩•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
@@ -686,7 +688,7 @@ http://120.211.62.180:8000/hls/35/index.m3u8$梁雨轩•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
 http://183.11.239.36:808/hls/41/index.m3u8$梁雨轩•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=bfe19179d2318a0f078c6fbeea85f589&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260710163731&Channel_ID=0116_2600034600-99000-201600010002458&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=36.138.74.236&SecurityKey=20260710163731&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f970428e6a08b85d2a4a6b4a0706331c&sv=10004&ct=android$梁雨轩•IPV4『线路20』
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=c625da0e6a6bd98402fdbf67cdfa9d51&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260710225059&Channel_ID=0116_2600034600-99000-201600010041651&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=122.246.1.148&SecurityKey=20260710225059&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e0e2045c0379b4f22d4a1876eaacea50&sv=10004&ct=android$梁雨轩•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
 http://iptv.huuc.edu.cn/hls/btv1hd.m3u8$梁雨轩•IPV4『线路21』
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
@@ -728,7 +730,7 @@ http://120.211.62.180:8000/hls/32/index.m3u8$梁雨轩•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
 http://183.11.239.36:808/hls/38/index.m3u8$梁雨轩•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=bfe19179d2318a0f078c6fbeea85f589&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260710163802&Channel_ID=0116_2600034600-99000-201600010027532&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=36.138.74.85&SecurityKey=20260710163802&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d1d279e38b9ccc3594f05f663de46327&sv=10004&ct=android$梁雨轩•IPV4『线路20』
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=c625da0e6a6bd98402fdbf67cdfa9d51&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260710225028&Channel_ID=0116_2600034600-99000-201600010052306&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=122.246.1.152&SecurityKey=20260710225028&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=13912aa4aaee0e7df97545a44f976534&sv=10004&ct=android$梁雨轩•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$梁雨轩•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
@@ -860,7 +862,7 @@ http://58.57.40.22:9901/tsfile/live/1037_1.m3u8$梁雨轩•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东南卫视.png" group-title="📡卫视",东南卫视
 http://hmfs.f3322.net:3388/hls/26/index.m3u8$梁雨轩•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东南卫视.png" group-title="📡卫视",东南卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=fb0d60504d2f89b30376ceb195134b81&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260710163240&Channel_ID=0116_2600034600-99000-201600010037735&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=36.139.195.157&SecurityKey=20260710163240&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b3359a53aaa7cd26296950a04fcff413&sv=10004&ct=android$梁雨轩•IPV4『线路13』
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=c625da0e6a6bd98402fdbf67cdfa9d51&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260710224800&Channel_ID=0116_2600034600-99000-201600010074514&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=124.248.64.28&SecurityKey=20260710224800&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=040d1f6746dfcdcd353fd4bf1f868b7d&sv=10004&ct=android$梁雨轩•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东南卫视.png" group-title="📡卫视",东南卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$梁雨轩•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东南卫视.png" group-title="📡卫视",东南卫视
@@ -942,13 +944,11 @@ http://58.57.40.22:9901/tsfile/live/1039_1.m3u8$梁雨轩•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
 http://183.11.239.36:808/hls/80/index.m3u8$梁雨轩•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=84dcf03d66c3d69b8814f732219efee6&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260710170658&Channel_ID=0116_2600034600-99000-201600010011620&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=61.164.252.209&SecurityKey=20260710170658&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=34a583329c8e316596867c4568dc3d5f&sv=10004&ct=android$梁雨轩•IPV4『线路19』
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=c625da0e6a6bd98402fdbf67cdfa9d51&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260710225139&Channel_ID=0116_2600034600-99000-201600010015851&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=122.246.1.153&SecurityKey=20260710225139&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=30a587c84b19384c7ae64a514d57f634&sv=10004&ct=android$梁雨轩•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=bfe19179d2318a0f078c6fbeea85f589&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260710165907&Channel_ID=0116_2600034600-99000-201600010077799&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=36.213.35.207&SecurityKey=20260710165907&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=edc182ac3c5cc54e48c394ec3a310daa&sv=10004&ct=android$梁雨轩•IPV4『线路20』
+https://migu.188766.xyz/?migutoken=914935a59c89b66dab25252502e2a612&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
-https://migu.188766.xyz/?migutoken=914935a59c89b66dab25252502e2a612&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路21』
-#EXTINF:-1 tvg-id="22" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
-http://iptv.huuc.edu.cn/hls/gdhd.m3u8$梁雨轩•IPV4『线路22』
+http://iptv.huuc.edu.cn/hls/gdhd.m3u8$梁雨轩•IPV4『线路21』
 #EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广西卫视.png" group-title="📡卫视",广西卫视
 http://go.bkpcp.top/mg/gxws$梁雨轩•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广西卫视.png" group-title="📡卫视",广西卫视
@@ -1184,7 +1184,7 @@ http://58.57.40.22:9901/tsfile/live/1038_1.m3u8$梁雨轩•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="📡卫视",湖北卫视
 http://182.150.23.74:808/hls/28/index.m3u8$梁雨轩•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="📡卫视",湖北卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=84dcf03d66c3d69b8814f732219efee6&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260710170732&Channel_ID=0116_2600034600-99000-201600010045284&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=115.238.236.85&SecurityKey=20260710170732&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=007a9144e247d5f969dab1e6bb903ed0&sv=10004&ct=android$梁雨轩•IPV4『线路18』
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=c625da0e6a6bd98402fdbf67cdfa9d51&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260710224916&Channel_ID=0116_2600034600-99000-201600010038678&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=122.246.1.149&SecurityKey=20260710224916&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=beccd7b4c30db3e240032fa04cd63133&sv=10004&ct=android$梁雨轩•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="📡卫视",湖北卫视
 https://migu.188766.xyz/?migutoken=da56470c6a31d8f3fe8165ab82dc1f7d&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="📡卫视",湖北卫视
@@ -1224,7 +1224,7 @@ http://58.57.40.22:9901/tsfile/live/1043_1.m3u8$梁雨轩•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="📡卫视",江西卫视
 http://182.150.23.74:808/hls/30/index.m3u8$梁雨轩•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="📡卫视",江西卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600633&netType=4&sid=5910021492&pid=2028597139&timestamp=20260710174446&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=211.90.247.95&SecurityKey=20260710174446&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=a90995e9079ddc1d5060b597b483a6e0&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1783676683445&prlId=4f89b0f1d885527a227fd4a636419cfe1783676683456&jid=4f89b0f1d885527a227fd4a636419cfe1783676682927V&is_advertise=0&sjid=subsession_1783676793921&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7e80d1c7b1f2f8cf81f472acf92fed31$梁雨轩•IPV4『线路18』
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=c625da0e6a6bd98402fdbf67cdfa9d51&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260710224955&Channel_ID=0116_2600034600-99000-201600010027618&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=122.246.1.149&SecurityKey=20260710224955&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1e7d96e14c2ba525197998be4afdbd64&sv=10004&ct=android$梁雨轩•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="📡卫视",江西卫视
 https://migu.188766.xyz/?migutoken=a037daa5bb64956d047c2ad536759474&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="📡卫视",江西卫视
@@ -1332,11 +1332,13 @@ http://58.57.40.22:9901/tsfile/live/1035_1.m3u8$梁雨轩•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="📡卫视",辽宁卫视
 http://120.211.62.180:8000/hls/37/index.m3u8$梁雨轩•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="📡卫视",辽宁卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$梁雨轩•IPV4『线路18』
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=c625da0e6a6bd98402fdbf67cdfa9d51&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260710224835&Channel_ID=0116_2600034600-99000-201600010024692&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=124.248.64.28&SecurityKey=20260710224835&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3dbf25882e86f06d7d4e992e6950e34&sv=10004&ct=android$梁雨轩•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="📡卫视",辽宁卫视
-https://migu.188766.xyz/?migutoken=de598ff38cb62f5276ea99a09276335a&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路19』
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$梁雨轩•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="📡卫视",辽宁卫视
-http://iptv.huuc.edu.cn/hls/lnhd.m3u8$梁雨轩•IPV4『线路20』
+https://migu.188766.xyz/?migutoken=de598ff38cb62f5276ea99a09276335a&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路20』
+#EXTINF:-1 tvg-id="21" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="📡卫视",辽宁卫视
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8$梁雨轩•IPV4『线路21』
 #EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/宁夏卫视.png" group-title="📡卫视",宁夏卫视
 http://go.bkpcp.top/mg/nxws$梁雨轩•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/宁夏卫视.png" group-title="📡卫视",宁夏卫视
