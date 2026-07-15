@@ -2,7 +2,7 @@
 梁雨轩直播,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
 CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-2026-07-15,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+2026-07-16,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 🇨🇳央视,#genre#
 CCTV1,http://111.56.90.54/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls$梁雨轩•IPV4『线路1』
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1$梁雨轩•IPV4『线路2』
@@ -312,8 +312,7 @@ CCTV-4,http://183.237.240.235:808/hls/5/index.m3u8$梁雨轩•IPV4
 北京卫视,http://123.130.84.106:8154/tsfile/live/0122_1.m3u8$梁雨轩•IPV4『线路14』
 北京卫视,http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$梁雨轩•IPV4『线路15』
 北京卫视,http://183.11.239.36:808/hls/41/index.m3u8$梁雨轩•IPV4『线路16』
-北京卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=dc3a0fa665e080433450edeb06b4a884&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260715110841&Channel_ID=0116_2600034600-99000-201600010061775&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=125.211.195.64&SecurityKey=20260715110841&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b4e1d6286c6e653ae8adcbae3593a50c&sv=10004&ct=android$梁雨轩•IPV4『线路17』
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8$梁雨轩•IPV4『线路18』
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8$梁雨轩•IPV4『线路17』
 江苏卫视,http://116.76.254.170:44330/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0$梁雨轩•IPV4『线路1』
 江苏卫视,http://go.bkpcp.top/mg/jsws$梁雨轩•IPV4『线路2』
 江苏卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws$梁雨轩•IPV4『线路3』
@@ -392,9 +391,8 @@ CCTV-4,http://183.237.240.235:808/hls/5/index.m3u8$梁雨轩•IPV4
 东南卫视,http://58.57.40.22:9901/tsfile/live/1037_1.m3u8$梁雨轩•IPV4『线路10』
 东南卫视,http://hmfs.f3322.net:3388/hls/26/index.m3u8$梁雨轩•IPV4『线路11』
 东南卫视,http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8$梁雨轩•IPV4『线路12』
-东南卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600717&netType=4&sid=5910022182&pid=2028597139&timestamp=20260715120015&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=61.139.65.121&SecurityKey=20260715120015&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=21a993a5fe2d29881a1b082c82ecda0f&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1784088012930&prlId=4f89b0f1d885527a227fd4a636419cfe1784088012946&jid=4f89b0f1d885527a227fd4a636419cfe1784088012492V&is_advertise=0&sjid=subsession_1784088112639&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f2d96eb0987707fd42e82ca85c61766a$梁雨轩•IPV4『线路13』
-东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$梁雨轩•IPV4『线路14』
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8$梁雨轩•IPV4『线路15』
+东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$梁雨轩•IPV4『线路13』
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8$梁雨轩•IPV4『线路14』
 深圳卫视,http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0$梁雨轩•IPV4『线路1』
 深圳卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws$梁雨轩•IPV4『线路2』
 深圳卫视,http://t.061899.xyz/tl/dq.php?id=szws$梁雨轩•IPV4『线路3』
@@ -430,10 +428,8 @@ CCTV-4,http://183.237.240.235:808/hls/5/index.m3u8$梁雨轩•IPV4
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$梁雨轩•IPV4『线路14』
 广东卫视,http://58.57.40.22:9901/tsfile/live/1039_1.m3u8$梁雨轩•IPV4『线路15』
 广东卫视,http://183.11.239.36:808/hls/80/index.m3u8$梁雨轩•IPV4『线路16』
-广东卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=dc3a0fa665e080433450edeb06b4a884&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260715113526&Channel_ID=0116_2600034600-99000-201600010073926&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=221.211.17.214&SecurityKey=20260715113526&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e9bfdc55a341c04b123973a1269d644b&sv=10004&ct=android$梁雨轩•IPV4『线路17』
-广东卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=dc3a0fa665e080433450edeb06b4a884&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260715113449&Channel_ID=0116_2600034600-99000-201600010099660&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=221.211.17.197&SecurityKey=20260715113449&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=29b875dbb4600132d734c837c7cd2491&sv=10004&ct=android$梁雨轩•IPV4『线路18』
-广东卫视,https://migu.188766.xyz/?migutoken=914935a59c89b66dab25252502e2a612&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路19』
-广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8$梁雨轩•IPV4『线路20』
+广东卫视,https://migu.188766.xyz/?migutoken=914935a59c89b66dab25252502e2a612&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路17』
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8$梁雨轩•IPV4『线路18』
 广西卫视,http://go.bkpcp.top/mg/gxws$梁雨轩•IPV4『线路1』
 广西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws$梁雨轩•IPV4『线路2』
 广西卫视,http://223.95.198.3:8000/hls/39/index.m3u8$梁雨轩•IPV4『线路3』
@@ -528,8 +524,7 @@ CCTV-4,http://183.237.240.235:808/hls/5/index.m3u8$梁雨轩•IPV4
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8$梁雨轩•IPV4『线路13』
 黑龙江卫视,http://58.57.40.22:9901/tsfile/live/1040_1.m3u8$梁雨轩•IPV4『线路14』
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$梁雨轩•IPV4『线路15』
-黑龙江卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600697&netType=4&sid=5910022409&pid=2028597139&timestamp=20260715115052&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=61.139.65.118&SecurityKey=20260715115052&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=bb512255a70de512947c71c6d6e9d7a2&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1784087449325&prlId=4f89b0f1d885527a227fd4a636419cfe1784087449358&jid=4f89b0f1d885527a227fd4a636419cfe1784087448730V&is_advertise=0&sjid=subsession_1784087560750&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7cdd4173c31ecf0a008d618fdbfadcd0$梁雨轩•IPV4『线路16』
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8$梁雨轩•IPV4『线路17』
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8$梁雨轩•IPV4『线路16』
 湖北卫视,http://116.76.254.170:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0$梁雨轩•IPV4『线路1』
 湖北卫视,http://go.bkpcp.top/mg/hubws$梁雨轩•IPV4『线路2』
 湖北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws$梁雨轩•IPV4『线路3』
@@ -546,9 +541,8 @@ CCTV-4,http://183.237.240.235:808/hls/5/index.m3u8$梁雨轩•IPV4
 湖北卫视,http://123.130.84.106:8154/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$梁雨轩•IPV4『线路14』
 湖北卫视,http://58.57.40.22:9901/tsfile/live/1038_1.m3u8$梁雨轩•IPV4『线路15』
 湖北卫视,http://182.150.23.74:808/hls/28/index.m3u8$梁雨轩•IPV4『线路16』
-湖北卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/hbwshd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600633&netType=4&sid=5910022163&pid=2028597139&timestamp=20260715114851&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=61.139.65.117&SecurityKey=20260715114851&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=d5e3f6d2ef5e808bc89bfd2fe2eb3467&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1784087328666&prlId=4f89b0f1d885527a227fd4a636419cfe1784087328685&jid=4f89b0f1d885527a227fd4a636419cfe1784087328187V&is_advertise=0&sjid=subsession_1784087428072&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1840dd5355146a57fbd0c971e2d40fa2$梁雨轩•IPV4『线路17』
-湖北卫视,https://migu.188766.xyz/?migutoken=da56470c6a31d8f3fe8165ab82dc1f7d&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路18』
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8$梁雨轩•IPV4『线路19』
+湖北卫视,https://migu.188766.xyz/?migutoken=da56470c6a31d8f3fe8165ab82dc1f7d&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路17』
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8$梁雨轩•IPV4『线路18』
 江西卫视,http://116.76.254.170:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0$梁雨轩•IPV4『线路1』
 江西卫视,http://go.bkpcp.top/mg/jxws$梁雨轩•IPV4『线路2』
 江西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws$梁雨轩•IPV4『线路3』
@@ -566,9 +560,8 @@ CCTV-4,http://183.237.240.235:808/hls/5/index.m3u8$梁雨轩•IPV4
 江西卫视,http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8$梁雨轩•IPV4『线路15』
 江西卫视,http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8$梁雨轩•IPV4『线路16』
 江西卫视,http://182.150.23.74:808/hls/30/index.m3u8$梁雨轩•IPV4『线路17』
-江西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600633&netType=4&sid=5910021492&pid=2028597139&timestamp=20260715115354&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=61.139.65.119&SecurityKey=20260715115354&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=430eb4ca9d3c4dcbdb07f2fbdfadb8ec&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1784087631435&prlId=4f89b0f1d885527a227fd4a636419cfe1784087631463&jid=4f89b0f1d885527a227fd4a636419cfe1784087630879V&is_advertise=0&sjid=subsession_1784087733705&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=eaca55987fa043a711bcd2e1e00876c7$梁雨轩•IPV4『线路18』
-江西卫视,https://migu.188766.xyz/?migutoken=a037daa5bb64956d047c2ad536759474&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路19』
-江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8$梁雨轩•IPV4『线路20』
+江西卫视,https://migu.188766.xyz/?migutoken=a037daa5bb64956d047c2ad536759474&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy$梁雨轩•IPV4『线路18』
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8$梁雨轩•IPV4『线路19』
 吉林卫视,http://116.76.254.170:44330/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0$梁雨轩•IPV4『线路1』
 吉林卫视,http://go.bkpcp.top/mg/jlws$梁雨轩•IPV4『线路2』
 吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws$梁雨轩•IPV4『线路3』
