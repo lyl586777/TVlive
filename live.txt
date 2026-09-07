@@ -353,8 +353,7 @@ CCTV-4,http://183.237.240.235:808/hls/5/index.m3u8$梁雨轩•IPV4
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$梁雨轩•IPV4『线路8』
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8$梁雨轩•IPV4『线路9』
 东南卫视,http://58.57.40.22:9901/tsfile/live/1037_1.m3u8$梁雨轩•IPV4『线路10』
-东南卫视,http://hmfs.f3322.net:3388/hls/26/index.m3u8$梁雨轩•IPV4『线路11』
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8$梁雨轩•IPV4『线路12』
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8$梁雨轩•IPV4『线路11』
 深圳卫视,http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0$梁雨轩•IPV4『线路1』
 深圳卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws$梁雨轩•IPV4『线路2』
 深圳卫视,http://t.061899.xyz/tl/dq.php?id=szws$梁雨轩•IPV4『线路3』
@@ -401,8 +400,7 @@ CCTV-4,http://183.237.240.235:808/hls/5/index.m3u8$梁雨轩•IPV4
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub$梁雨轩•IPV4『线路8』
 广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8$梁雨轩•IPV4『线路9』
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8$梁雨轩•IPV4『线路10』
-广西卫视,http://hmfs.f3322.net:3388/hls/27/index.m3u8$梁雨轩•IPV4『线路11』
-广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$梁雨轩•IPV4『线路12』
+广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$梁雨轩•IPV4『线路11』
 厦门卫视,http://183.237.71.182:40000/hls/57/index.m3u8$梁雨轩•IPV4『线路1』
 厦门卫视,http://yhms.aylzline.top:8899/rtp/225.1.2.96:10570$梁雨轩•IPV4『线路2』
 厦门卫视,http://lysj.aylzline.top:8899/rtp/225.1.2.96:10570$梁雨轩•IPV4『线路3』
@@ -679,9 +677,8 @@ CCTV-4,http://183.237.240.235:808/hls/5/index.m3u8$梁雨轩•IPV4
 凤凰卫视资讯台,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$梁雨轩•IPV4
 凤凰香港,https://mgev.188766.xyz/?migutoken=31206284b8700dd6871da4a602998d5e&id=fhhk&pp=1$梁雨轩•IPV4『线路1』
 凤凰香港,https://mgev.188766.xyz/?migutoken=85e8fef459b48c079bf6b77239f4a662&id=hk_fhhk&type=dy$梁雨轩•IPV4『线路2』
-香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$梁雨轩•IPV4『线路1』
-香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8$梁雨轩•IPV4『线路2』
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$梁雨轩•IPV4『线路3』
+香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8$梁雨轩•IPV4『线路1』
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$梁雨轩•IPV4『线路2』
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/$梁雨轩•IPV4『线路1』
 翡翠台,https://cdn6.163189.xyz/163189/fct4k$梁雨轩•IPV4『线路2』
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct$梁雨轩•IPV4『线路3』
